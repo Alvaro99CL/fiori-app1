@@ -1,0 +1,28 @@
+{
+    "ShipName":"",
+    "CountryKey":"",
+    "Countries":[
+        {
+            "key":"Chile",
+            "text":"Chile"
+        },
+        {
+            "key":"Germany",
+            "text":"Germany"
+        },
+        {
+            "key":"Uk",
+            "text":"Uk"
+        },
+        {
+            "key":"Mexico",
+            "text":"Mexico"
+        },
+        {
+            "key":"Brazil",
+            "text":"Brazil"
+        }
+
+    ],
+    "Currency":"USD"
+}
